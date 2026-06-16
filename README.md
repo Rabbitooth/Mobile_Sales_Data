@@ -1,12 +1,4 @@
-# Retail Phone Sales BI Report
-
-> An interactive Power BI dashboard analyzing **3,835 retail mobile phone transactions** across **19 Indian cities** from **2021 to 2024**. Built on a structured Excel dataset, the report surfaces trends in brand performance, payment behaviour, customer demographics, geographic demand, and product-level sales.
-
-![Dashboard Preview](dashboard_preview.png)
-
----
-
-## 📌 Project Overview
+## Project Overview
 
 This project delivers a fully interactive business intelligence dashboard for a fictional retail chain - **Arasaka** - selling smartphones across multiple Indian cities. The goal is to transform raw transactional sales data into actionable insights through intuitive visual reporting in Power BI.
 
@@ -57,7 +49,7 @@ Four headline cards summarise top-level performance at a glance:
 
 ---
 
-### ⭐ Customer Ratings Distribution
+### Customer Ratings Distribution
 A horizontal bar chart showing post-purchase ratings (1–5):
 
 | Rating | Count | Share |
@@ -72,7 +64,7 @@ Average customer rating: **3.69 / 5.0**
 
 ---
 
-### 🗺️ Total Sales in Every City (Map)
+### Total Sales in Every City (Map)
 An interactive Bing Maps bubble chart where each bubble represents a city and bubble size corresponds to sales volume. Key observations:
 - **Delhi** is the dominant market with ₹20.39 Cr in revenue and 1,008 transactions
 - **Mumbai** is a distant second at ₹12.72 Cr
@@ -80,7 +72,7 @@ An interactive Bing Maps bubble chart where each bubble represents a city and bu
 
 ---
 
-### 📋 Brand Performance Table
+### Brand Performance Table
 A matrix visual comparing all five brands across units sold, total revenue, and transaction count:
 
 | Brand | Transactions | Units Sold | Total Revenue |
@@ -96,7 +88,7 @@ Competition is extremely tight across all brands, with Apple holding a narrow le
 
 ---
 
-### 📦 Count of Units Sold by Mobile Model
+### Count of Units Sold by Mobile Model
 A descending bar chart showing unit counts for each of the 15 phone models. Top performers by transaction count:
 
 1. Vivo Y51 - 283 transactions
@@ -109,7 +101,7 @@ Sales are spread relatively evenly across models, suggesting no single model dom
 
 ---
 
-## 💡 Key Insights & Findings
+## Key Insights & Findings
 
 **1. Brand competition is nearly dead even** - All five brands perform within a narrow band. Apple leads with ₹16.16 Cr and 3,932 units, while Xiaomi trails at ₹14.38 Cr and 3,664 units - a gap of just ~12%. No brand has a dominant market position.
 
