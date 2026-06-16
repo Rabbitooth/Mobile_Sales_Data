@@ -8,10 +8,6 @@ The dashboard allows stakeholders to monitor KPIs in real time, drill down by mo
 
 ---
 
-## Dataset Description
-
-The dataset is a flat Excel table (`Mobile_Sales_Data.xlsx`) where each row represents a single sales transaction.
-
 ### Dataset Scope
 
 | Attribute | Value |
