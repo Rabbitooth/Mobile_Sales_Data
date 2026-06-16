@@ -115,6 +115,4 @@ Sales are spread relatively evenly across models, suggesting no single model dom
 
 **6. Vivo Y51 is the single most transacted model** - Despite Vivo ranking fourth overall in revenue, its Y51 model tops the transaction count chart with 283 transactions, indicating strong volume in the budget-to-mid segment even as per-unit value remains lower.
 
-**7. Four full years of data enables meaningful trend analysis** - Spanning October 2021 through December 2024, the dataset allows Power BI time intelligence functions (YoY growth, rolling averages, seasonal decomposition) to surface long-term performance trends beyond the single-year view.
-
 ---
