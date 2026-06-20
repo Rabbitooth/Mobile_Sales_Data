@@ -28,7 +28,7 @@ The dashboard allows stakeholders to monitor KPIs in real time, drill down by mo
 The dashboard is a single-page Power BI report with slicers and cross-filtering enabled across all visuals.
 
 ### Filter Panel
-A vertical **month slicer** (January–December) on the left sidebar filters all visuals by selected month(s). Three dropdown slicers at the top allow simultaneous filtering by **Brand**, **Payment Mode**, and **City**.
+A vertical **month slicer** (January–December) on the left sidebar filters all visuals by selected month(s). Three dropdown slicers at the top allow simultaneous filtering by **Year**, **Brand**, **Payment Mode**, and **City**.
 
 ---
 
